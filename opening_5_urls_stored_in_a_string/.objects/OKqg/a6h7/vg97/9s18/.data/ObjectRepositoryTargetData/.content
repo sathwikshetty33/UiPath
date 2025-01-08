@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mlR2329w40a0iBnfV3sN6Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="youtube.com/feed/you" CVScreenId="12ebae2a-11bb-4dfc-933e-cb085cdbc0e6" CvTextArea="366, 25, 16, 16" CvTextArgument="+" CvType="Text" DesignTimeRectangle="356, 9, 36, 52" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='YouTube - Google Chrome - 47-Sathwik Suresh' role='pane' /&gt;&lt;ctrl name='New Tab' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='YouTube - Google Chrome - 47-Sathwik Suresh' role='pane' /&gt;&lt;ctrl name='New Tab' role='push button' automationid='' check:text='New Tab' /&gt;" Guid="a76b6543-b5be-456a-bf9f-9a2b9cb02e7c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='YouTube - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8040e9da2dcffcb97960aafd8eaa461e.png" xmlns="">0mdcD0559f0uyt9_A8qXLtg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

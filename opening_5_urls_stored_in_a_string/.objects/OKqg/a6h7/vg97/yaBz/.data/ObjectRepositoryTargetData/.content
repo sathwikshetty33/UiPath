@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="NXGr8-Xb6kS7q9ay-ZktOg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="newtab" CVScreenId="2d0dc793-a370-495d-922b-495eee98d54d" CvElementArea="47, 11, 307, 48" CvType="Button" DesignTimeRectangle="311, 16, 36, 36" DesignTimeScaleFactor="1.25" ElementType="Button" FullSelectorArgument="&lt;ctrl name='New Tab - Google Chrome - 47-Sathwik Suresh' role='pane' /&gt;&lt;ctrl name='YouTube - Memory usage - 247 MB' role='page tab' /&gt;&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='New Tab - Google Chrome - 47-Sathwik Suresh' role='pane' /&gt;&lt;ctrl name='YouTube - Memory usage - 247 MB' role='page tab' /&gt;&lt;ctrl name='Close' role='push button' automationid='' check:text='Close' /&gt;" Guid="048eb1a3-488c-4c4d-9abd-6c48493f874d" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="00a8eeb36bb7933e946053d397a3da89.png" xmlns="">0A3CBe0YHaUiOWNpZkiQzNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

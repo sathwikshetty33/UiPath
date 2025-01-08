@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JtW6c70fJEektz0tsLDeSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/u/0/d/e/1FAIpQLSe07bDKf6_u2LXtHauvSI36_kseCtmKTZGSZqatk9eb9MR2Ng/formResponse" CVScreenId="a2d5299b-46dc-4dc7-a49d-0e092837602f" CvTextArea="599, 415, 195, 20" CvTextArgument="Submit another response" CvType="Text" DesignTimeRectangle="600, 414, 195, 21" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='' aaname='Submit another response' check:innerText='Submit another response' /&gt;" Guid="bb5a32ce-1144-4466-bfa9-380872838267" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Untitled form' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="4a2aa7c639518df36787d7472f4327da.png" xmlns="">0coZxyrrJPkatclh-Z-nLlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
